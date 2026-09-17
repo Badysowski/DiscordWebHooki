@@ -1,0 +1,53 @@
+name: Licznik Obrazu
+
+on:
+  schedule:
+    # Te same crony co Budzik: 8:30 czasu polskiego po obu stronach zmiany czasu.
+    # Robote wykonuje ten, ktory wpada w okno 8:30 +graceMinutes; drugi jest dogrywka.
+    - cron: '30 6 * * *'  # 8:30 czasu letniego (CEST)
+    - cron: '30 7 * * *'  # 8:30 czasu zimowego (CET)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Tylko pokaz co by wyslal, nie wysylaj'
+        type: boolean
+        default: false
+
+concurrency:
+  group: obraz
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  licz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Policz i napisz
+        env:
+          OBRAZ_WEBHOOK_URL: ${{ secrets.OBRAZ_WEBHOOK_URL }}
+          OBRAZ_MENTION_USER_ID: ${{ secrets.OBRAZ_MENTION_USER_ID }}
+          OBRAZ_MENTION_NAME: ${{ secrets.OBRAZ_MENTION_NAME }}
+          OBRAZ_ARTIST: ${{ secrets.OBRAZ_ARTIST }}
+          OBRAZ_ARTIST_GEN: ${{ secrets.OBRAZ_ARTIST_GEN }}
+          TENOR_API_KEY: ${{ secrets.TENOR_API_KEY }}
+          GIPHY_API_KEY: ${{ secrets.GIPHY_API_KEY }}
+        run: |
+          node src/obraz.js \
+            ${{ github.event_name == 'workflow_dispatch' && '--now' || '' }} \
+            ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Zapisz stan
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name  "licznik-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state-obraz.json
+          git diff --staged --quiet && { echo "Stan bez zmian."; exit 0; }
+          git commit -m "Obraz: $(date -u +%Y-%m-%d)"
+          # dwa boty commituja o tej samej porze — rebase na to, co juz jest na main
+          git pull --rebase --autostash -q
+          git push

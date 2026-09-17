@@ -1,0 +1,14 @@
+{
+  "name": "discord-daily-bots",
+  "version": "1.0.0",
+  "description": "Discordowy bot pilnujacy codziennego 'dzien dobry'",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "start": "node src/main.js",
+    "dry": "node src/main.js --dry-run --now",
+    "obraz:dry": "node src/obraz.js --dry-run --now"
+  },
+  "engines": { "node": ">=20" }
+}

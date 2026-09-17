@@ -1,0 +1,1542 @@
+{
+ "_uwaga": "Ceny orientacyjne, Polska 2026. Edytuj śmiało. formy = [biernik l.poj., biernik 2-4, dopełniacz l.mn.], gen = dopełniacz l.poj. (dla rzeczy droższych niż suma). gif = hasło do wyszukania gifa (po angielsku działa najlepiej).",
+ "produkty": [
+  {
+   "formy": [
+    "bułkę kajzerkę",
+    "bułki kajzerki",
+    "bułek kajzerek"
+   ],
+   "cena": 0.9,
+   "gif": "bread roll"
+  },
+  {
+   "formy": [
+    "kebab",
+    "kebaby",
+    "kebabów"
+   ],
+   "cena": 26,
+   "gif": "kebab"
+  },
+  {
+   "formy": [
+    "pudełko pizzy",
+    "pudełka pizzy",
+    "pudełek pizzy"
+   ],
+   "cena": 38,
+   "gif": "pizza"
+  },
+  {
+   "formy": [
+    "zapiekankę",
+    "zapiekanki",
+    "zapiekanek"
+   ],
+   "cena": 16,
+   "gif": "cheese toast"
+  },
+  {
+   "formy": [
+    "hot-doga z Żabki",
+    "hot-dogi z Żabki",
+    "hot-dogów z Żabki"
+   ],
+   "cena": 7,
+   "gif": "hot dog"
+  },
+  {
+   "formy": [
+    "kawę na mieście",
+    "kawy na mieście",
+    "kaw na mieście"
+   ],
+   "cena": 16,
+   "gif": "coffee"
+  },
+  {
+   "formy": [
+    "piwo ze sklepu",
+    "piwa ze sklepu",
+    "piw ze sklepu"
+   ],
+   "cena": 4.5,
+   "gif": "beer"
+  },
+  {
+   "formy": [
+    "piwo w barze",
+    "piwa w barze",
+    "piw w barze"
+   ],
+   "cena": 15,
+   "gif": "beer cheers"
+  },
+  {
+   "formy": [
+    "Harnasia Ice Tea",
+    "Harnasie Ice Tea",
+    "Harnasi Ice Tea"
+   ],
+   "cena": 4,
+   "gif": "iced tea"
+  },
+  {
+   "formy": [
+    "paczkę pierogów",
+    "paczki pierogów",
+    "paczek pierogów"
+   ],
+   "cena": 12,
+   "gif": "pierogi"
+  },
+  {
+   "formy": [
+    "schabowego z ziemniakami w barze mlecznym",
+    "schabowe z ziemniakami w barze mlecznym",
+    "schabowych z ziemniakami w barze mlecznym"
+   ],
+   "cena": 24,
+   "gif": "schnitzel"
+  },
+  {
+   "formy": [
+    "Big Maca",
+    "Big Maki",
+    "Big Maków"
+   ],
+   "cena": 21,
+   "gif": "big mac"
+  },
+  {
+   "formy": [
+    "McZestaw",
+    "McZestawy",
+    "McZestawów"
+   ],
+   "cena": 38,
+   "gif": "mcdonalds"
+  },
+  {
+   "formy": [
+    "energetyka",
+    "energetyki",
+    "energetyków"
+   ],
+   "cena": 6,
+   "gif": "energy drink"
+  },
+  {
+   "formy": [
+    "paczkę chipsów",
+    "paczki chipsów",
+    "paczek chipsów"
+   ],
+   "cena": 8,
+   "gif": "chips"
+  },
+  {
+   "formy": [
+    "kilogram kiełbasy",
+    "kilogramy kiełbasy",
+    "kilogramów kiełbasy"
+   ],
+   "cena": 35,
+   "gif": "sausage"
+  },
+  {
+   "formy": [
+    "tabliczkę czekolady",
+    "tabliczki czekolady",
+    "tabliczek czekolady"
+   ],
+   "cena": 6,
+   "gif": "chocolate"
+  },
+  {
+   "formy": [
+    "litr mleka",
+    "litry mleka",
+    "litrów mleka"
+   ],
+   "cena": 4,
+   "gif": "milk"
+  },
+  {
+   "formy": [
+    "bochenek chleba",
+    "bochenki chleba",
+    "bochenków chleba"
+   ],
+   "cena": 6,
+   "gif": "bread"
+  },
+  {
+   "formy": [
+    "dychę jajek",
+    "dychy jajek",
+    "dych jajek"
+   ],
+   "cena": 12,
+   "gif": "eggs"
+  },
+  {
+   "formy": [
+    "kilogram pomidorów",
+    "kilogramy pomidorów",
+    "kilogramów pomidorów"
+   ],
+   "cena": 10,
+   "gif": "tomatoes"
+  },
+  {
+   "formy": [
+    "flaszkę wódki",
+    "flaszki wódki",
+    "flaszek wódki"
+   ],
+   "cena": 45,
+   "gif": "vodka"
+  },
+  {
+   "formy": [
+    "zestaw sushi",
+    "zestawy sushi",
+    "zestawów sushi"
+   ],
+   "cena": 90,
+   "gif": "sushi"
+  },
+  {
+   "formy": [
+    "miskę ramenu",
+    "miski ramenu",
+    "misek ramenu"
+   ],
+   "cena": 45,
+   "gif": "ramen"
+  },
+  {
+   "formy": [
+    "gałkę lodów",
+    "gałki lodów",
+    "gałek lodów"
+   ],
+   "cena": 6,
+   "gif": "ice cream"
+  },
+  {
+   "formy": [
+    "pączka",
+    "pączki",
+    "pączków"
+   ],
+   "cena": 5,
+   "gif": "donut"
+  },
+  {
+   "formy": [
+    "obiad w restauracji",
+    "obiady w restauracji",
+    "obiadów w restauracji"
+   ],
+   "cena": 70,
+   "gif": "fancy dinner"
+  },
+  {
+   "formy": [
+    "kilogram żelków",
+    "kilogramy żelków",
+    "kilogramów żelków"
+   ],
+   "cena": 30,
+   "gif": "gummy bears"
+  },
+  {
+   "formy": [
+    "paczkę fajek",
+    "paczki fajek",
+    "paczek fajek"
+   ],
+   "cena": 20,
+   "gif": "cigarette"
+  },
+  {
+   "formy": [
+    "paczkę makaronu",
+    "paczki makaronu",
+    "paczek makaronu"
+   ],
+   "cena": 4,
+   "gif": "pasta"
+  },
+  {
+   "formy": [
+    "kilogram ryżu",
+    "kilogramy ryżu",
+    "kilogramów ryżu"
+   ],
+   "cena": 6,
+   "gif": "rice"
+  },
+  {
+   "formy": [
+    "kilogram truskawek",
+    "kilogramy truskawek",
+    "kilogramów truskawek"
+   ],
+   "cena": 15,
+   "gif": "strawberries"
+  },
+  {
+   "formy": [
+    "arbuza",
+    "arbuzy",
+    "arbuzów"
+   ],
+   "cena": 20,
+   "gif": "watermelon"
+  },
+  {
+   "formy": [
+    "kilogram borówek",
+    "kilogramy borówek",
+    "kilogramów borówek"
+   ],
+   "cena": 30,
+   "gif": "blueberries"
+  },
+  {
+   "formy": [
+    "awokado",
+    "awokado",
+    "awokado"
+   ],
+   "cena": 5,
+   "gif": "avocado"
+  },
+  {
+   "formy": [
+    "sałatkę z Żabki",
+    "sałatki z Żabki",
+    "sałatek z Żabki"
+   ],
+   "cena": 12,
+   "gif": "salad"
+  },
+  {
+   "formy": [
+    "piwo na Rynku w Krakowie",
+    "piwa na Rynku w Krakowie",
+    "piw na Rynku w Krakowie"
+   ],
+   "cena": 22,
+   "gif": "krakow"
+  },
+  {
+   "formy": [
+    "kilogram sera",
+    "kilogramy sera",
+    "kilogramów sera"
+   ],
+   "cena": 40,
+   "gif": "cheese"
+  },
+  {
+   "formy": [
+    "słoik Nutelli",
+    "słoiki Nutelli",
+    "słoików Nutelli"
+   ],
+   "cena": 18,
+   "gif": "nutella"
+  },
+  {
+   "formy": [
+    "butelkę oliwy",
+    "butelki oliwy",
+    "butelek oliwy"
+   ],
+   "cena": 35,
+   "gif": "olive oil"
+  },
+  {
+   "formy": [
+    "paczkę kawy",
+    "paczki kawy",
+    "paczek kawy"
+   ],
+   "cena": 30,
+   "gif": "coffee beans"
+  },
+  {
+   "formy": [
+    "zgrzewkę wody",
+    "zgrzewki wody",
+    "zgrzewek wody"
+   ],
+   "cena": 12,
+   "gif": "water bottle"
+  },
+  {
+   "formy": [
+    "burgera w modnej knajpie",
+    "burgery w modnej knajpie",
+    "burgerów w modnej knajpie"
+   ],
+   "cena": 45,
+   "gif": "burger"
+  },
+  {
+   "formy": [
+    "kilogram łososia",
+    "kilogramy łososia",
+    "kilogramów łososia"
+   ],
+   "cena": 70,
+   "gif": "salmon"
+  },
+  {
+   "formy": [
+    "tort urodzinowy",
+    "torty urodzinowe",
+    "tortów urodzinowych"
+   ],
+   "cena": 120,
+   "gif": "birthday cake"
+  },
+  {
+   "formy": [
+    "bilet jednorazowy MPK",
+    "bilety jednorazowe MPK",
+    "biletów jednorazowych MPK"
+   ],
+   "cena": 4.4,
+   "gif": "tram"
+  },
+  {
+   "formy": [
+    "bilet miesięczny na komunikację",
+    "bilety miesięczne na komunikację",
+    "biletów miesięcznych na komunikację"
+   ],
+   "cena": 120,
+   "gif": "bus"
+  },
+  {
+   "formy": [
+    "litr benzyny",
+    "litry benzyny",
+    "litrów benzyny"
+   ],
+   "cena": 6.2,
+   "gif": "gas station"
+  },
+  {
+   "formy": [
+    "pełny bak",
+    "pełne baki",
+    "pełnych baków"
+   ],
+   "cena": 310,
+   "gif": "fuel"
+  },
+  {
+   "formy": [
+    "przejazd Uberem przez miasto",
+    "przejazdy Uberem przez miasto",
+    "przejazdów Uberem przez miasto"
+   ],
+   "cena": 30,
+   "gif": "uber"
+  },
+  {
+   "formy": [
+    "bilet Intercity Warszawa–Kraków",
+    "bilety Intercity Warszawa–Kraków",
+    "biletów Intercity Warszawa–Kraków"
+   ],
+   "cena": 79,
+   "gif": "train"
+  },
+  {
+   "formy": [
+    "hulajnogę elektryczną",
+    "hulajnogi elektryczne",
+    "hulajnóg elektrycznych"
+   ],
+   "cena": 1500,
+   "gif": "electric scooter"
+  },
+  {
+   "formy": [
+    "rower miejski",
+    "rowery miejskie",
+    "rowerów miejskich"
+   ],
+   "cena": 1200,
+   "gif": "bicycle"
+  },
+  {
+   "formy": [
+    "komplet opon zimowych",
+    "komplety opon zimowych",
+    "kompletów opon zimowych"
+   ],
+   "cena": 1600,
+   "gif": "tires"
+  },
+  {
+   "formy": [
+    "lot Ryanairem do Londynu",
+    "loty Ryanairem do Londynu",
+    "lotów Ryanairem do Londynu"
+   ],
+   "cena": 150,
+   "gif": "ryanair"
+  },
+  {
+   "formy": [
+    "mandat za prędkość",
+    "mandaty za prędkość",
+    "mandatów za prędkość"
+   ],
+   "cena": 500,
+   "gif": "speeding ticket"
+  },
+  {
+   "formy": [
+    "przegląd samochodu",
+    "przeglądy samochodu",
+    "przeglądów samochodu"
+   ],
+   "cena": 200,
+   "gif": "car mechanic"
+  },
+  {
+   "formy": [
+    "mycie auta na myjni",
+    "mycia auta na myjni",
+    "myć auta na myjni"
+   ],
+   "cena": 40,
+   "gif": "car wash"
+  },
+  {
+   "formy": [
+    "kurs na prawo jazdy",
+    "kursy na prawo jazdy",
+    "kursów na prawo jazdy"
+   ],
+   "cena": 3500,
+   "gif": "driving lesson"
+  },
+  {
+   "formy": [
+    "PlayStation 5",
+    "PlayStation 5",
+    "PlayStation 5"
+   ],
+   "cena": 2400,
+   "gif": "playstation 5"
+  },
+  {
+   "formy": [
+    "Xboxa Series S",
+    "Xboxy Series S",
+    "Xboxów Series S"
+   ],
+   "cena": 1300,
+   "gif": "xbox"
+  },
+  {
+   "formy": [
+    "Nintendo Switch 2",
+    "Nintendo Switch 2",
+    "Nintendo Switch 2"
+   ],
+   "cena": 2000,
+   "gif": "nintendo switch"
+  },
+  {
+   "formy": [
+    "Steam Decka",
+    "Steam Decki",
+    "Steam Decków"
+   ],
+   "cena": 2500,
+   "gif": "steam deck"
+  },
+  {
+   "formy": [
+    "Samsunga Galaxy S",
+    "Samsungi Galaxy S",
+    "Samsungów Galaxy S"
+   ],
+   "cena": 4200,
+   "gif": "samsung galaxy"
+  },
+  {
+   "formy": [
+    "AirPodsy",
+    "pary AirPodsów",
+    "par AirPodsów"
+   ],
+   "cena": 900,
+   "gif": "airpods"
+  },
+  {
+   "formy": [
+    "klawiaturę mechaniczną",
+    "klawiatury mechaniczne",
+    "klawiatur mechanicznych"
+   ],
+   "cena": 400,
+   "gif": "mechanical keyboard"
+  },
+  {
+   "formy": [
+    "myszkę gamingową",
+    "myszki gamingowe",
+    "myszek gamingowych"
+   ],
+   "cena": 250,
+   "gif": "gaming mouse"
+  },
+  {
+   "formy": [
+    "monitor 144 Hz",
+    "monitory 144 Hz",
+    "monitorów 144 Hz"
+   ],
+   "cena": 900,
+   "gif": "gaming monitor"
+  },
+  {
+   "formy": [
+    "kartę graficzną RTX 5070",
+    "karty graficzne RTX 5070",
+    "kart graficznych RTX 5070"
+   ],
+   "cena": 2800,
+   "gif": "graphics card"
+  },
+  {
+   "formy": [
+    "laptopa",
+    "laptopy",
+    "laptopów"
+   ],
+   "cena": 3500,
+   "gif": "laptop"
+  },
+  {
+   "formy": [
+    "miesiąc Netflixa",
+    "miesiące Netflixa",
+    "miesięcy Netflixa"
+   ],
+   "cena": 49,
+   "gif": "netflix"
+  },
+  {
+   "formy": [
+    "miesiąc Spotify",
+    "miesiące Spotify",
+    "miesięcy Spotify"
+   ],
+   "cena": 24,
+   "gif": "spotify"
+  },
+  {
+   "formy": [
+    "grę AAA na Steamie",
+    "gry AAA na Steamie",
+    "gier AAA na Steamie"
+   ],
+   "cena": 300,
+   "gif": "video game"
+  },
+  {
+   "formy": [
+    "skina do CS2",
+    "skiny do CS2",
+    "skinów do CS2"
+   ],
+   "cena": 80,
+   "gif": "counter strike"
+  },
+  {
+   "formy": [
+    "bilet do kina",
+    "bilety do kina",
+    "biletów do kina"
+   ],
+   "cena": 30,
+   "gif": "cinema"
+  },
+  {
+   "formy": [
+    "popcorn w kinie",
+    "popcorny w kinie",
+    "popcornów w kinie"
+   ],
+   "cena": 25,
+   "gif": "popcorn"
+  },
+  {
+   "formy": [
+    "książkę",
+    "książki",
+    "książek"
+   ],
+   "cena": 45,
+   "gif": "book"
+  },
+  {
+   "formy": [
+    "komiks",
+    "komiksy",
+    "komiksów"
+   ],
+   "cena": 40,
+   "gif": "comic book"
+  },
+  {
+   "formy": [
+    "figurkę Funko Pop",
+    "figurki Funko Pop",
+    "figurek Funko Pop"
+   ],
+   "cena": 80,
+   "gif": "funko pop"
+  },
+  {
+   "formy": [
+    "zestaw LEGO Sokół Millennium",
+    "zestawy LEGO Sokół Millennium",
+    "zestawów LEGO Sokół Millennium"
+   ],
+   "cena": 4000,
+   "gif": "lego millennium falcon"
+  },
+  {
+   "formy": [
+    "gogle VR Quest 3",
+    "gogle VR Quest 3",
+    "par gogli VR Quest 3"
+   ],
+   "cena": 2300,
+   "gif": "vr headset"
+  },
+  {
+   "formy": [
+    "telewizor 55 cali",
+    "telewizory 55 cali",
+    "telewizorów 55 cali"
+   ],
+   "cena": 2500,
+   "gif": "big tv"
+  },
+  {
+   "formy": [
+    "drukarkę",
+    "drukarki",
+    "drukarek"
+   ],
+   "cena": 400,
+   "gif": "printer"
+  },
+  {
+   "formy": [
+    "powerbank",
+    "powerbanki",
+    "powerbanków"
+   ],
+   "cena": 100,
+   "gif": "powerbank"
+  },
+  {
+   "formy": [
+    "pendrive'a",
+    "pendrive'y",
+    "pendrive'ów"
+   ],
+   "cena": 30,
+   "gif": "usb stick"
+  },
+  {
+   "formy": [
+    "kabel USB-C",
+    "kable USB-C",
+    "kabli USB-C"
+   ],
+   "cena": 20,
+   "gif": "usb cable"
+  },
+  {
+   "formy": [
+    "bilet na koncert",
+    "bilety na koncert",
+    "biletów na koncert"
+   ],
+   "cena": 250,
+   "gif": "concert"
+  },
+  {
+   "formy": [
+    "miesięczny karnet na siłownię",
+    "miesięczne karnety na siłownię",
+    "miesięcznych karnetów na siłownię"
+   ],
+   "cena": 130,
+   "gif": "gym"
+  },
+  {
+   "formy": [
+    "bilet na mecz Ekstraklasy",
+    "bilety na mecz Ekstraklasy",
+    "biletów na mecz Ekstraklasy"
+   ],
+   "cena": 60,
+   "gif": "football fans"
+  },
+  {
+   "formy": [
+    "paczkę kart Pokémon",
+    "paczki kart Pokémon",
+    "paczek kart Pokémon"
+   ],
+   "cena": 20,
+   "gif": "pokemon cards"
+  },
+  {
+   "formy": [
+    "Pokémon GO Plus+",
+    "Pokémon GO Plus+",
+    "Pokémon GO Plus+"
+   ],
+   "cena": 250,
+   "gif": "pokemon go"
+  },
+  {
+   "formy": [
+    "obraz od {artistGen}",
+    "obrazy od {artistGen}",
+    "obrazów od {artistGen}"
+   ],
+   "cena": 5000,
+   "gif": "painting"
+  },
+  {
+   "formy": [
+    "plakat z Allegro",
+    "plakaty z Allegro",
+    "plakatów z Allegro"
+   ],
+   "cena": 25,
+   "gif": "poster"
+  },
+  {
+   "formy": [
+    "zestaw farb akrylowych",
+    "zestawy farb akrylowych",
+    "zestawów farb akrylowych"
+   ],
+   "cena": 60,
+   "gif": "paint"
+  },
+  {
+   "formy": [
+    "płótno malarskie",
+    "płótna malarskie",
+    "płócien malarskich"
+   ],
+   "cena": 30,
+   "gif": "canvas painting"
+  },
+  {
+   "formy": [
+    "kurs malowania online",
+    "kursy malowania online",
+    "kursów malowania online"
+   ],
+   "cena": 200,
+   "gif": "bob ross"
+  },
+  {
+   "formy": [
+    "ramkę na obraz",
+    "ramki na obraz",
+    "ramek na obraz"
+   ],
+   "cena": 50,
+   "gif": "picture frame"
+  },
+  {
+   "formy": [
+    "kartę podarunkową Steam",
+    "karty podarunkowe Steam",
+    "kart podarunkowych Steam"
+   ],
+   "cena": 100,
+   "gif": "steam"
+  },
+  {
+   "formy": [
+    "subskrypcję ChatGPT Plus",
+    "subskrypcje ChatGPT Plus",
+    "subskrypcji ChatGPT Plus"
+   ],
+   "cena": 90,
+   "gif": "chatgpt"
+  },
+  {
+   "formy": [
+    "głośnik JBL",
+    "głośniki JBL",
+    "głośników JBL"
+   ],
+   "cena": 350,
+   "gif": "speaker"
+  },
+  {
+   "formy": [
+    "smartwatch",
+    "smartwatche",
+    "smartwatchów"
+   ],
+   "cena": 700,
+   "gif": "smartwatch"
+  },
+  {
+   "formy": [
+    "dron",
+    "drony",
+    "dronów"
+   ],
+   "cena": 1500,
+   "gif": "drone"
+  },
+  {
+   "formy": [
+    "aparat instax",
+    "aparaty instax",
+    "aparatów instax"
+   ],
+   "cena": 350,
+   "gif": "polaroid"
+  },
+  {
+   "formy": [
+    "miesiąc czynszu za kawalerkę w Warszawie",
+    "miesiące czynszu za kawalerkę w Warszawie",
+    "miesięcy czynszu za kawalerkę w Warszawie"
+   ],
+   "cena": 3000,
+   "gif": "rent"
+  },
+  {
+   "formy": [
+    "rachunek za prąd",
+    "rachunki za prąd",
+    "rachunków za prąd"
+   ],
+   "cena": 250,
+   "gif": "electricity bill"
+  },
+  {
+   "formy": [
+    "wizytę u fryzjera",
+    "wizyty u fryzjera",
+    "wizyt u fryzjera"
+   ],
+   "cena": 60,
+   "gif": "haircut"
+  },
+  {
+   "formy": [
+    "mały tatuaż",
+    "małe tatuaże",
+    "małych tatuaży"
+   ],
+   "cena": 400,
+   "gif": "tattoo"
+  },
+  {
+   "formy": [
+    "masaż",
+    "masaże",
+    "masaży"
+   ],
+   "cena": 150,
+   "gif": "massage"
+  },
+  {
+   "formy": [
+    "plombę u dentysty",
+    "plomby u dentysty",
+    "plomb u dentysty"
+   ],
+   "cena": 300,
+   "gif": "dentist"
+  },
+  {
+   "formy": [
+    "prywatną wizytę u lekarza",
+    "prywatne wizyty u lekarza",
+    "prywatnych wizyt u lekarza"
+   ],
+   "cena": 200,
+   "gif": "doctor"
+  },
+  {
+   "formy": [
+    "worek karmy dla kota",
+    "worki karmy dla kota",
+    "worków karmy dla kota"
+   ],
+   "cena": 90,
+   "gif": "cat food"
+  },
+  {
+   "formy": [
+    "kota rasowego",
+    "koty rasowe",
+    "kotów rasowych"
+   ],
+   "cena": 2500,
+   "gif": "cat"
+  },
+  {
+   "formy": [
+    "szczeniaka z rodowodem",
+    "szczeniaki z rodowodem",
+    "szczeniaków z rodowodem"
+   ],
+   "cena": 3000,
+   "gif": "puppy"
+  },
+  {
+   "formy": [
+    "ośmiopak papieru toaletowego",
+    "ośmiopaki papieru toaletowego",
+    "ośmiopaków papieru toaletowego"
+   ],
+   "cena": 15,
+   "gif": "toilet paper"
+  },
+  {
+   "formy": [
+    "bukiet kwiatów",
+    "bukiety kwiatów",
+    "bukietów kwiatów"
+   ],
+   "cena": 80,
+   "gif": "flowers"
+  },
+  {
+   "formy": [
+    "pralkę",
+    "pralki",
+    "pralek"
+   ],
+   "cena": 1800,
+   "gif": "washing machine"
+  },
+  {
+   "formy": [
+    "lodówkę",
+    "lodówki",
+    "lodówek"
+   ],
+   "cena": 2200,
+   "gif": "fridge"
+  },
+  {
+   "formy": [
+    "odkurzacz Dyson",
+    "odkurzacze Dyson",
+    "odkurzaczy Dyson"
+   ],
+   "cena": 2000,
+   "gif": "vacuum"
+  },
+  {
+   "formy": [
+    "ekspres do kawy",
+    "ekspresy do kawy",
+    "ekspresów do kawy"
+   ],
+   "cena": 800,
+   "gif": "espresso machine"
+  },
+  {
+   "formy": [
+    "materac",
+    "materace",
+    "materaców"
+   ],
+   "cena": 1200,
+   "gif": "mattress"
+  },
+  {
+   "formy": [
+    "robot sprzątający",
+    "roboty sprzątające",
+    "robotów sprzątających"
+   ],
+   "cena": 1500,
+   "gif": "robot vacuum"
+  },
+  {
+   "formy": [
+    "patelnię",
+    "patelnie",
+    "patelni"
+   ],
+   "cena": 100,
+   "gif": "frying pan"
+  },
+  {
+   "formy": [
+    "garnitur",
+    "garnitury",
+    "garniturów"
+   ],
+   "cena": 800,
+   "gif": "suit"
+  },
+  {
+   "formy": [
+    "parę butów Nike",
+    "pary butów Nike",
+    "par butów Nike"
+   ],
+   "cena": 450,
+   "gif": "nike shoes"
+  },
+  {
+   "formy": [
+    "kurtkę zimową",
+    "kurtki zimowe",
+    "kurtek zimowych"
+   ],
+   "cena": 400,
+   "gif": "winter jacket"
+  },
+  {
+   "formy": [
+    "parę skarpetek",
+    "pary skarpetek",
+    "par skarpetek"
+   ],
+   "cena": 10,
+   "gif": "socks"
+  },
+  {
+   "formy": [
+    "bokserki",
+    "pary bokserek",
+    "par bokserek"
+   ],
+   "cena": 25,
+   "gif": "underwear"
+  },
+  {
+   "formy": [
+    "jeansy",
+    "pary jeansów",
+    "par jeansów"
+   ],
+   "cena": 200,
+   "gif": "jeans"
+  },
+  {
+   "formy": [
+    "zegarek Casio",
+    "zegarki Casio",
+    "zegarków Casio"
+   ],
+   "cena": 200,
+   "gif": "casio watch"
+  },
+  {
+   "formy": [
+    "flakon perfum",
+    "flakony perfum",
+    "flakonów perfum"
+   ],
+   "cena": 300,
+   "gif": "perfume"
+  },
+  {
+   "formy": [
+    "okulary Ray-Ban",
+    "pary okularów Ray-Ban",
+    "par okularów Ray-Ban"
+   ],
+   "cena": 700,
+   "gif": "sunglasses"
+  },
+  {
+   "formy": [
+    "tydzień all inclusive w Turcji",
+    "tygodnie all inclusive w Turcji",
+    "tygodni all inclusive w Turcji"
+   ],
+   "cena": 3500,
+   "gif": "all inclusive"
+  },
+  {
+   "formy": [
+    "weekend w Zakopanem",
+    "weekendy w Zakopanem",
+    "weekendów w Zakopanem"
+   ],
+   "cena": 800,
+   "gif": "mountains"
+  },
+  {
+   "formy": [
+    "nocleg w hotelu",
+    "noclegi w hotelu",
+    "noclegów w hotelu"
+   ],
+   "cena": 300,
+   "gif": "hotel"
+  },
+  {
+   "formy": [
+    "dzienny karnet narciarski",
+    "dzienne karnety narciarskie",
+    "dziennych karnetów narciarskich"
+   ],
+   "cena": 180,
+   "gif": "skiing"
+  },
+  {
+   "formy": [
+    "bilet do Energylandii",
+    "bilety do Energylandii",
+    "biletów do Energylandii"
+   ],
+   "cena": 200,
+   "gif": "roller coaster"
+  },
+  {
+   "formy": [
+    "bilet do aquaparku",
+    "bilety do aquaparku",
+    "biletów do aquaparku"
+   ],
+   "cena": 60,
+   "gif": "water slide"
+  },
+  {
+   "formy": [
+    "godzinę kręgli",
+    "godziny kręgli",
+    "godzin kręgli"
+   ],
+   "cena": 100,
+   "gif": "bowling"
+  },
+  {
+   "formy": [
+    "escape room",
+    "escape roomy",
+    "escape roomów"
+   ],
+   "cena": 150,
+   "gif": "escape room"
+  },
+  {
+   "formy": [
+    "grę w paintball",
+    "gry w paintball",
+    "gier w paintball"
+   ],
+   "cena": 80,
+   "gif": "paintball"
+  },
+  {
+   "formy": [
+    "lekcję jazdy konnej",
+    "lekcje jazdy konnej",
+    "lekcji jazdy konnej"
+   ],
+   "cena": 100,
+   "gif": "horse riding"
+  },
+  {
+   "formy": [
+    "kurs nurkowania",
+    "kursy nurkowania",
+    "kursów nurkowania"
+   ],
+   "cena": 2000,
+   "gif": "scuba diving"
+  },
+  {
+   "formy": [
+    "skok ze spadochronem",
+    "skoki ze spadochronem",
+    "skoków ze spadochronem"
+   ],
+   "cena": 1200,
+   "gif": "skydiving"
+  },
+  {
+   "formy": [
+    "lot balonem",
+    "loty balonem",
+    "lotów balonem"
+   ],
+   "cena": 900,
+   "gif": "hot air balloon"
+  },
+  {
+   "formy": [
+    "oczyszczacz powietrza",
+    "oczyszczacze powietrza",
+    "oczyszczaczy powietrza"
+   ],
+   "cena": 600,
+   "gif": "air purifier"
+  },
+  {
+   "formy": [
+    "fotel gamingowy",
+    "fotele gamingowe",
+    "foteli gamingowych"
+   ],
+   "cena": 900,
+   "gif": "gaming chair"
+  },
+  {
+   "formy": [
+    "wiertarkę",
+    "wiertarki",
+    "wiertarek"
+   ],
+   "cena": 350,
+   "gif": "drill"
+  },
+  {
+   "formy": [
+    "grill",
+    "grille",
+    "grilli"
+   ],
+   "cena": 500,
+   "gif": "bbq"
+  },
+  {
+   "formy": [
+    "namiot",
+    "namioty",
+    "namiotów"
+   ],
+   "cena": 400,
+   "gif": "camping"
+  },
+  {
+   "formy": [
+    "rolki",
+    "pary rolek",
+    "par rolek"
+   ],
+   "cena": 300,
+   "gif": "rollerblades"
+  },
+  {
+   "formy": [
+    "deskę SUP",
+    "deski SUP",
+    "desek SUP"
+   ],
+   "cena": 1200,
+   "gif": "paddleboard"
+  },
+  {
+   "formy": [
+    "sesję u psychologa",
+    "sesje u psychologa",
+    "sesji u psychologa"
+   ],
+   "cena": 200,
+   "gif": "therapy"
+  },
+  {
+   "formy": [
+    "kurs angielskiego (miesiąc)",
+    "kursy angielskiego (miesiąc)",
+    "kursów angielskiego (miesiąc)"
+   ],
+   "cena": 350,
+   "gif": "english lesson"
+  },
+  {
+   "formy": [
+    "Thermomixa",
+    "Thermomixy",
+    "Thermomixów"
+   ],
+   "cena": 6000,
+   "gen": "Thermomixa",
+   "gif": "thermomix"
+  },
+  {
+   "formy": [
+    "porządny PC do gier",
+    "porządne PC do gier",
+    "porządnych PC do gier"
+   ],
+   "cena": 6000,
+   "gen": "porządnego PC do gier",
+   "gif": "gaming pc"
+  },
+  {
+   "formy": [
+    "MacBooka Pro",
+    "MacBooki Pro",
+    "MacBooków Pro"
+   ],
+   "cena": 9000,
+   "gen": "MacBooka Pro",
+   "gif": "macbook"
+  },
+  {
+   "formy": [
+    "rower szosowy",
+    "rowery szosowe",
+    "rowerów szosowych"
+   ],
+   "cena": 8000,
+   "gen": "roweru szosowego",
+   "gif": "road bike"
+  },
+  {
+   "formy": [
+    "wycieczkę do Japonii",
+    "wycieczki do Japonii",
+    "wycieczek do Japonii"
+   ],
+   "cena": 12000,
+   "gen": "wycieczki do Japonii",
+   "gif": "japan"
+  },
+  {
+   "formy": [
+    "iPhone'a 17 Pro Max",
+    "iPhone'y 17 Pro Max",
+    "iPhone'ów 17 Pro Max"
+   ],
+   "cena": 7500,
+   "gen": "iPhone'a 17 Pro Max",
+   "gif": "iphone"
+  },
+  {
+   "formy": [
+    "używanego Passata",
+    "używane Passaty",
+    "używanych Passatów"
+   ],
+   "cena": 25000,
+   "gen": "używanego Passata",
+   "gif": "volkswagen"
+  },
+  {
+   "formy": [
+    "Malucha",
+    "Maluchy",
+    "Maluchów"
+   ],
+   "cena": 15000,
+   "gen": "Malucha",
+   "gif": "fiat 126p"
+  },
+  {
+   "formy": [
+    "motocykl",
+    "motocykle",
+    "motocykli"
+   ],
+   "cena": 20000,
+   "gen": "motocykla",
+   "gif": "motorcycle"
+  },
+  {
+   "formy": [
+    "Rolexa",
+    "Rolexy",
+    "Rolexów"
+   ],
+   "cena": 40000,
+   "gen": "Rolexa",
+   "gif": "rolex"
+  },
+  {
+   "formy": [
+    "Teslę Model 3",
+    "Tesle Model 3",
+    "Tesli Model 3"
+   ],
+   "cena": 200000,
+   "gen": "Tesli Model 3",
+   "gif": "tesla"
+  },
+  {
+   "formy": [
+    "kawalerkę w Warszawie",
+    "kawalerki w Warszawie",
+    "kawalerek w Warszawie"
+   ],
+   "cena": 800000,
+   "gen": "kawalerki w Warszawie",
+   "gif": "apartment"
+  },
+  {
+   "formy": [
+    "działkę nad jeziorem",
+    "działki nad jeziorem",
+    "działek nad jeziorem"
+   ],
+   "cena": 150000,
+   "gen": "działki nad jeziorem",
+   "gif": "lake house"
+  },
+  {
+   "formy": [
+    "łódź motorową",
+    "łodzie motorowe",
+    "łodzi motorowych"
+   ],
+   "cena": 60000,
+   "gen": "łodzi motorowej",
+   "gif": "speedboat"
+  },
+  {
+   "formy": [
+    "wesele",
+    "wesela",
+    "wesel"
+   ],
+   "cena": 80000,
+   "gen": "wesela",
+   "gif": "wedding"
+  },
+  {
+   "formy": [
+    "kilogram złota",
+    "kilogramy złota",
+    "kilogramów złota"
+   ],
+   "cena": 350000,
+   "gen": "kilograma złota",
+   "gif": "gold bars"
+  }
+ ]
+}

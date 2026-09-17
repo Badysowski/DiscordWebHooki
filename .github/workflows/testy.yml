@@ -1,0 +1,17 @@
+name: Testy
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['state.json', 'state-obraz.json', 'README.md', 'assets/**']
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node --test "test/*.test.js"
+      - name: Sprawdz czy config.json jest poprawny
+        run: node -e "JSON.parse(require('fs').readFileSync('config.json','utf8'))"
